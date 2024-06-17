@@ -1,0 +1,1 @@
+Do=2,Re=2.25,Mi=2.5,Fa=2.65,Sol=3,La=3.35,Ti=3.75,(2*t*[Do,Re,Mi,Fa,Sol,La,Ti,2*Do][7&t>>13]/4)
